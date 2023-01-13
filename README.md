@@ -4,4 +4,14 @@
 
 [Лабораторная №2](https://github.com/aeterraes/algorithms/tree/main/lab2)
 
+[Лабораторная №3](https://github.com/aeterraes/algorithms/tree/main/lab3)
+
+[Лабораторная №4](https://github.com/aeterraes/algorithms/tree/main/lab4)
+
+[Лабораторная №5](https://github.com/aeterraes/algorithms/tree/main/lab5)
+
+[Лабораторная №6](https://github.com/aeterraes/algorithms/tree/main/lab6)
+
+[Лабораторная №7](https://github.com/aeterraes/algorithms/tree/main/lab7)
+
 <==== to be continued <====
