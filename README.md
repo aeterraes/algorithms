@@ -14,4 +14,9 @@
 
 [Лабораторная №7](https://github.com/aeterraes/algorithms/tree/main/lab7)
 
+## Второй семестр
+[Лабораторная №8](https://github.com/aeterraes/algorithms/tree/main/lab8)
+
+[Лабораторная №9](https://github.com/aeterraes/algorithms/tree/main/lab9)
+
 <==== to be continued <====
