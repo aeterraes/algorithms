@@ -19,4 +19,6 @@
 
 [Лабораторная №9](https://github.com/aeterraes/algorithms/tree/main/lab9)
 
+[Лабораторная №10](https://github.com/aeterraes/algorithms/tree/main/lab10)
+
 <==== to be continued <====
