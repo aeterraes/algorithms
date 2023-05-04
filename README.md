@@ -21,6 +21,8 @@
 
 [Лабораторная №10](https://github.com/aeterraes/algorithms/tree/main/lab10)
 
+[Лабораторная №11](https://github.com/aeterraes/algorithms/tree/main/lab11)
+
 ## Задачи с коллоквиумов
 
 [тык](https://github.com/aeterraes/algorithms/tree/main/colloq)
