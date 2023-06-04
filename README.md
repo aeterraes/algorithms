@@ -1,30 +1,34 @@
 # Алгоритмы и структуры данных
 ## Первый семестр
-[Лабораторная №1](https://youtu.be/puu0JsRzDtI?t=604)
+[Лабораторная №1](https://youtu.be/puu0JsRzDtI?t=604) - знакомство с предметом (смело пропускайте)
 
-[Лабораторная №2](https://github.com/aeterraes/algorithms/tree/main/lab2)
+[Лабораторная №2](https://github.com/aeterraes/algorithms/tree/main/lab2) - сортировки (вставками, слиянием, быстрая), k-я порядковая статистика
 
-[Лабораторная №3](https://github.com/aeterraes/algorithms/tree/main/lab3)
+[Лабораторная №3](https://github.com/aeterraes/algorithms/tree/main/lab3) - стек, очередь, бинарный поиск
 
-[Лабораторная №4](https://github.com/aeterraes/algorithms/tree/main/lab4)
+[Лабораторная №4](https://github.com/aeterraes/algorithms/tree/main/lab4) - сортировки (кучей, цифровая), приоритетная очередь
 
-[Лабораторная №5](https://github.com/aeterraes/algorithms/tree/main/lab5)
+[Лабораторная №5](https://github.com/aeterraes/algorithms/tree/main/lab5) - двоичное дерево, обходы
 
-[Лабораторная №6](https://github.com/aeterraes/algorithms/tree/main/lab6)
+[Лабораторная №6](https://github.com/aeterraes/algorithms/tree/main/lab6) - АВЛ-дерево
 
-[Лабораторная №7](https://github.com/aeterraes/algorithms/tree/main/lab7)
+[Лабораторная №7](https://github.com/aeterraes/algorithms/tree/main/lab7) - динамическое программирование (рюкзак, наибольная возрастающая подпоследовательность)
 
 ## Второй семестр
-[Лабораторная №8](https://github.com/aeterraes/algorithms/tree/main/lab8)
+[Лабораторная №8](https://github.com/aeterraes/algorithms/tree/main/lab8) -  кодирование Хемминга
 
-[Лабораторная №9](https://github.com/aeterraes/algorithms/tree/main/lab9)
+[Лабораторная №9](https://github.com/aeterraes/algorithms/tree/main/lab9) - коды Грея, обходы в ширину и в глубину
 
-[Лабораторная №10](https://github.com/aeterraes/algorithms/tree/main/lab10)
+[Лабораторная №10](https://github.com/aeterraes/algorithms/tree/main/lab10) - поиск компонент связности, проверка на связность в графах
 
-[Лабораторная №11](https://github.com/aeterraes/algorithms/tree/main/lab11)
+[Лабораторная №11](https://github.com/aeterraes/algorithms/tree/main/lab11) - алгоритмы (Беллмана-Форда, Флойда-Уоршелла, Дейкстры), СНМ
+
+[Лабораторная №12](https://github.com/aeterraes/algorithms/tree/main/lab12) - алгоритмы (Краскала, Куна, Форда-Фалкерсона)
+
+[Лабораторная №13](https://github.com/aeterraes/algorithms/tree/main/lab13) - хеширование
+
+[Лабораторная №14](https://github.com/aeterraes/algorithms/tree/main/lab14) - строковые алгоритмы
 
 ## Задачи с коллоквиумов
 
-[тык](https://github.com/aeterraes/algorithms/tree/main/colloq)
-
-<==== to be continued <====
+[Тык](https://github.com/aeterraes/algorithms/tree/main/colloq) - BFS и задачка на сортировку
