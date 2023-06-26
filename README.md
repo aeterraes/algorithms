@@ -31,4 +31,4 @@
 
 ## Задачи с коллоквиумов
 
-[Тык](https://github.com/aeterraes/algorithms/tree/main/colloq) - BFS и задачка на сортировку
+[BFS и задачка на сортировку](https://github.com/aeterraes/algorithms/tree/main/colloq)
